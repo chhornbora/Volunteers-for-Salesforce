@@ -467,7 +467,6 @@
     <types>
         <members>Volunteer_Reports</members>
         <members>Volunteer_Reports/Active_Volunteers</members>
-        <members>Volunteer_Reports/Available_Volunteer_Jobs</members>
         <members>Volunteer_Reports/Hours_detached_from_their_VRS</members>
         <members>Volunteer_Reports/Inactive_Volunteers</members>
         <members>Volunteer_Reports/New_Sign_Ups_Contacts</members>
